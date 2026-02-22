@@ -1,4 +1,3 @@
-# -Neo4j-Road-Network-Routing
 # Neo4j Road Network Routing
 
 Aplikacja geoinformacyjna służąca do modelowania sieci drogowej na podstawie danych BDOT10k oraz wyznaczania tras przy użyciu grafowej bazy danych Neo4j i modułu Graph Data Science (GDS).
